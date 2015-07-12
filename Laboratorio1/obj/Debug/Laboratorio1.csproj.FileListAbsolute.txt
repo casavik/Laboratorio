@@ -1,0 +1,3 @@
+C:\Users\brenesl\Desktop\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+F:\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+C:\Users\castillk\Desktop\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe.config
